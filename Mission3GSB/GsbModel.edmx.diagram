@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="053ff969d6dd48b5a933c9d437511193" Name="Diagram1">
+        <EntityTypeShape EntityType="gsb2025Model.famille" Width="1.5" PointX="9.875" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="gsb2025Model.medecin" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="gsb2025Model.medicament" Width="1.5" PointX="7.5" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="gsb2025Model.offrir" Width="1.5" PointX="5.375" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="gsb2025Model.rapport" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="gsb2025Model.sysdiagram" Width="1.5" PointX="7.125" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="gsb2025Model.visiteur" Width="1.5" PointX="5.25" PointY="3.375" IsExpanded="true" />
+        <AssociationConnector Association="gsb2025Model.medicament_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="gsb2025Model.rapport_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="gsb2025Model.offrir_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="gsb2025Model.offrir_fk1" ManuallyRouted="false" />
+        <AssociationConnector Association="gsb2025Model.rapport_fk1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

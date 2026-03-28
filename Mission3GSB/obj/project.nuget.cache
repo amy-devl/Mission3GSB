@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ml/9FVkR0Cc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arsla\\source\\repos\\Mission3GSB\\Mission3GSB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arsla\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
+    "C:\\Users\\arsla\\.nuget\\packages\\entityframework.fr\\6.2.0\\entityframework.fr.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
